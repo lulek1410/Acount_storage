@@ -1,1 +1,1 @@
-# Acount_storage
+# Aplication that allows storing acounts and creating new users. Users' logins and passwords are stored in .txt file. After creating new account, personal file for user is created. File is used to store users saved data. Every user has a personal file. App allows adding new data an deleting previously added ones. Also text in files is simply encrypted to make it imposible to read straight awy. 
